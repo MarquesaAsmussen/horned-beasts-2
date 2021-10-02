@@ -9,6 +9,7 @@ class HornedBeast extends Component {
 
   handleClick = () => {
     this.setState({ votes: this.state.votes + 1 });
+    this.props.displayAsModal(this.props.title);
   };
 
   handleVoteClick = () => {};
