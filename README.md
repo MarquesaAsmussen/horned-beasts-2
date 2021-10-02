@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# LAB - 01
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Horned Beasts
 
-## Available Scripts
+This is an application that displays images and information of horned animals. This application will allow you to filter the images by number of horns and chose your favorite image.
 
-In the project directory, you can run:
+### Author: Marquesa Asmussen
 
-### `npm start`
+### Links and Resources
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- submission PR
+- Any Links you used as reference
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Credits/Collaborations
 
-### `npm test`
+- Hexx King, git/github support
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Reflections and Comments
 
-### `npm run build`
+- Consider including the answers to your daily journal and submission questions here
+- This is also a good place to reflect on the tools and resources used and learned
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Feature Estimates
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Number and name of feature: #1: Display images #1 Convert to json file for beast objects
 
-### `npm run eject`
+Estimate of time needed to complete: 30min-1hr
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Start time: 6:00pm
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Finish time: 7:00pm
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Actual time needed to complete: 1 hour
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- ------------------------------------------------------- -->
 
-## Learn More
+Number and name of feature: Feature #2: Allow users to vote for their favorite beast
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Estimate of time needed to complete: **\_**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Start time: **\_**
 
-### Code Splitting
+Finish time: **\_**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Actual time needed to complete: **\_**
 
-### Analyzing the Bundle Size
+<!-- ------------------------------------------------------- -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Number and name of feature: Feature #3: Bootstrap
 
-### Making a Progressive Web App
+Estimate of time needed to complete: **\_**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Start time: **\_**
 
-### Advanced Configuration
+Finish time: **\_**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Actual time needed to complete: **\_**
 
-### Deployment
+<!-- ------------------------------------------------------- -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Number and name of feature: Feature #4 (Stretch Goal): Add Interaction
 
-### `npm run build` fails to minify
+Estimate of time needed to complete: **\_**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Start time: **\_**
+
+Finish time: **\_**
+
+Actual time needed to complete: **\_**
