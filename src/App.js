@@ -27,6 +27,10 @@ class App extends Component {
     this.setState({ showModal: false });
   };
 
+  updateBeastGallery = filteredBeastArr => {
+    this.setState({ allBeasts: filteredBeastArr });
+  };
+
   render() {
     return (
       <Container fluid>
@@ -34,6 +38,7 @@ class App extends Component {
         <Main
           allBeasts={this.state.allBeasts}
           displayAsModal={this.displayAsModal}
+          updateBeastGallery={this.updateBeastGallery}
         />
         <SelectedBeastModal
           showModal={this.state.showModal}
