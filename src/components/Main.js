@@ -18,7 +18,9 @@ class Main extends Component {
       <>
         <Form>
           <Form.Group className='mb-3' controlId='hornFilterForm'>
-            <Form.Label>Number of Horns</Form.Label>
+            <Form.Label>
+              Select beasts by their number of horns in the drop down below
+            </Form.Label>
             <Form.Control as='select' onChange={this.filterHorns}>
               <option value=''>ALL THE HORNS!!!</option>
               <option value='1'>1 horn</option>
