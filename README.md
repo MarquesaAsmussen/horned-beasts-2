@@ -38,34 +38,46 @@ Actual time needed to complete: 1 hour
 
 Number and name of feature: Feature #2: Allow users to vote for their favorite beast
 
-Estimate of time needed to complete: **\_**
+Estimate of time needed to complete: 1 hr
 
-Start time: **\_**
+Start time: 7:00
 
-Finish time: **\_**
+Finish time: 7:30
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: 30 min
 
 <!-- ------------------------------------------------------- -->
 
 Number and name of feature: Feature #3: Bootstrap
 
-Estimate of time needed to complete: **\_**
+Estimate of time needed to complete: 30 min
 
-Start time: **\_**
+Start time: 8:00
 
-Finish time: **\_**
+Finish time: 9:00
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: 1 hr
 
 <!-- ------------------------------------------------------- -->
 
-Number and name of feature: Feature #4 (Stretch Goal): Add Interaction
+Number and name of feature: Feature #1: Display a Modal
 
-Estimate of time needed to complete: **\_**
+Estimate of time needed to complete: 30 min
 
-Start time: **\_**
+Start time: 3:00
 
-Finish time: **\_**
+Finish time: 4:15
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: 1 hr 15 min
+
+<!-- ------------------------------------------------------- -->
+
+Number and name of feature: Feature #1: Filter by Numbers of Horns
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 5:00
+
+Finish time: 6:30
+
+Actual time needed to complete: 1 hr 30 min

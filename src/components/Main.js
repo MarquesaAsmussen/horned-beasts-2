@@ -39,6 +39,7 @@ class Main extends Component {
                 title={beast.title}
                 imgsrc={beast.image_url}
                 description={beast.description}
+                horns={beast.horns}
                 displayAsModal={this.props.displayAsModal}
               />
             ))}
