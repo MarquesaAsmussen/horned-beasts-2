@@ -1,5 +1,6 @@
 import { Component } from 'react';
 import Card from 'react-bootstrap/Card';
+import heartIcon from '../assets/heartIcon.png';
 
 class HornedBeast extends Component {
   constructor(props) {
@@ -20,7 +21,9 @@ class HornedBeast extends Component {
         <Card.Img src={this.props.imgsrc} alt={this.props.title} />
         <Card.Title>{this.props.title}</Card.Title>
         <Card.Text>{this.props.description}</Card.Text>
-        <Card.Text> likes = {this.state.votes}</Card.Text>
+        <Card.Text>Horns: {this.props.horns}</Card.Text>
+        <Card.Img id='favoriteHeart' src={heartIcon} alt='heart icon' />
+        <Card.Text id='favoriteCount'> likes = {this.state.votes}</Card.Text>
       </Card>
     );
   }
